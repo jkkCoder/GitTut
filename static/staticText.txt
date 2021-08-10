@@ -1,1 +1,2 @@
-this is inside static 
+this is inside static file
+this is added when first line was in staging area..to check git diff command
